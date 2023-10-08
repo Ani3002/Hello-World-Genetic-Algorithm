@@ -70,4 +70,4 @@ Contributions to the GeneticHelloWorld program are welcome. If you have ideas fo
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+RANDOM_STRING_SOLUTION_Using_Genetic_Algorithm © 2022 by Anirban Routh is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/
